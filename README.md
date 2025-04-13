@@ -1,2 +1,4 @@
 # Get started 
-text file
+First line
+# sub heading
+second line
